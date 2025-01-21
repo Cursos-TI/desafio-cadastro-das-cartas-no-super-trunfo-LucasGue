@@ -37,6 +37,7 @@ int main() {
     printf("Agora informe o PIB da sua cidade: \n");
     scanf("%f" %pib);
     printf("Para finalizar, quantos pontos turísticos tem na sua cidade?");
+    scanf("%d" %pontosturisticos);
 
 // Agora é hora de informar ao usuário, a carta que ele cadastrou
 // Informando a carta cadastrada.
